@@ -10,4 +10,7 @@ pyjwt
 dlib==19.22.1
 face-recognition
 face-recognition-models
+numpy
+opencv-python
+
 
