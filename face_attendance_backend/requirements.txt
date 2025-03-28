@@ -7,10 +7,11 @@ psycopg2-binary
 python-multipart
 bcrypt
 pyjwt
-dlib==19.22.1
+dlib-bin==19.24.0
 face-recognition
 face-recognition-models
 numpy
 opencv-python
+
 
 
