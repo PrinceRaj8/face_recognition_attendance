@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+face-recognition
+opencv-python
+numpy
+psycopg2-binary
+python-multipart
+bcrypt
+pyjwt
