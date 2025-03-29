@@ -1,4 +1,4 @@
-# Essential Libraries
+# Core Backend
 fastapi
 uvicorn
 python-multipart
@@ -22,7 +22,3 @@ passlib
 
 # Utility Libraries
 python-dotenv
-
-
-
-
