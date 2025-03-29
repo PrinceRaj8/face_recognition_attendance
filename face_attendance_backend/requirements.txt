@@ -1,17 +1,28 @@
+# Essential Libraries
 fastapi
 uvicorn
-face-recognition
-opencv-python
-numpy
-psycopg2-binary
 python-multipart
-bcrypt
-pyjwt
-dlib-bin==19.24.0
+
+# Database
+SQLAlchemy
+psycopg2-binary
+
+# Face Recognition & Image Processing
+dlib==19.24.2
 face-recognition
 face-recognition-models
 numpy
-opencv-python
+opencv-python-headless
+Pillow
+
+# Security & Authentication
+PyJWT
+bcrypt
+passlib
+
+# Utility Libraries
+python-dotenv
+
 
 
 
