@@ -7,15 +7,13 @@ python-multipart
 SQLAlchemy
 psycopg2-binary
 
-# Face Recognition & Image Processing
-cmake
-dlib
+# Face Recognition & Image Processing (Optimized)
 face-recognition
 face-recognition-models
 numpy
 pillow
 scipy
-opencv-python-headless
+opencv-python-headless==4.5.3.56  # Stable version
 
 # Security & Authentication
 PyJWT
