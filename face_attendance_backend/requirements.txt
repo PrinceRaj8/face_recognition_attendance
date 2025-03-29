@@ -8,12 +8,14 @@ SQLAlchemy
 psycopg2-binary
 
 # Face Recognition & Image Processing
-dlib==19.24.2
+cmake
+dlib
 face-recognition
 face-recognition-models
 numpy
+pillow
+scipy
 opencv-python-headless
-Pillow
 
 # Security & Authentication
 PyJWT
